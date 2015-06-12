@@ -37,9 +37,13 @@
 300. third item in list
 
 
-# Links
-
+# Links (all in the same line)
 [Johns Hopkin Bloomberg School of Public Health](http://www.jhsph.edu/)
 [Download R](http://www.r-project.org/)
 [RStudio](http://www.rstudio.com/)
 
+# Advanced Linking
+
+    I spend so much time reading [R bloggers][1] and [Simply Statistics][2]!  
+    [1]: http://www.r-bloggers.com/   "R bloggers"  
+    [2]: http://simplystatistics.org/ "Simply Statistics"
